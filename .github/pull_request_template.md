@@ -13,15 +13,15 @@
 # Any related work (jira ticket for related work etc)?
 
 
-# Is there any documentation?  link to nuclino here:
-- [ ] yes
-- [ ] no (could you write a nuclino page on it?)
+# Is there any documentation?
+# If yes include link to nuclino, if no, would a nuclino page be helpful for the future?
 
 
 ## Who requested the changes (infra/external)
 
 
-## Has this been tested? if other env where?
+## Has this been tested? If other env where?
+
 - [ ] Dev?
 - [ ] Staging?
 - [ ] Production?
@@ -29,3 +29,5 @@
 
 
 ## QA input required?
+- [ ] yes
+- [ ] no
