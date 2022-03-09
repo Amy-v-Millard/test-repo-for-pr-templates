@@ -1,23 +1,31 @@
-## Jira ticket number?
+# Jira ticket number?
 
-## What has changed?
 
-## Reason for the change?
+# What has changed?
 
-## Any impact resulting from the change?
 
-## Any related work (jira ticket for related work etc)?
+# Reason for the change?
 
-## Is there any documentation (nuclino link)? If none, should there be?
+
+# Any impact resulting from the change?
+
+
+# Any related work (jira ticket for related work etc)?
+
+
+# Is there any documentation?  link to nuclino here:
+- [ ] yes
+- [ ] no (could you write a nuclino page on it?)
+
 
 ## Who requested the changes (infra/external)
 
-## Has this been tested?
+
+## Has this been tested? if other env where?
 - [ ] Dev?
 - [ ] Staging?
 - [ ] Production?
 - [ ] other?
-## if other where?
+
 
 ## QA input required?
-
