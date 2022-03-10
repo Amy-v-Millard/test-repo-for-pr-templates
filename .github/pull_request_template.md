@@ -1,17 +1,17 @@
-# [Jira ticket link]()
+# [Jira Ticket](insert link here)
 
 
-# Details of change?
+# Change Details
 
 
-# Reason for the change?
+# Change Reasons
 
 
-# Will there be an impact?
+# Any Impact?
 if yes please anounce in [#known_issues](https://immersivelabs.slack.com/archives/CLS28F7RD) slack channel
 
 
-# Links to any associated documentation.
+# Documentation Links
 
 
 # Has this been tested? If other env where?
