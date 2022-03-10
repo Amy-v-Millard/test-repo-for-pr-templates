@@ -7,7 +7,7 @@
 # Reason for the change?
 
 
-# Any impact resulting from the change?
+# Any known impact caused by the change?
 
 
 # Any related work (jira ticket for related work etc)?
@@ -17,8 +17,9 @@
 # If yes include link to nuclino, if no, would a nuclino page be helpful for the future?
 
 
-## Who requested the changes (infra/external)
-
+## Who requested the changes
+- [ ] Infra
+- [ ] External
 
 ## Has this been tested? If other env where?
 
