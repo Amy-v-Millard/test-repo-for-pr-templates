@@ -1,31 +1,23 @@
-# Jira ticket link
+# [Jira ticket link]()
 
 
-# What has changed?
+# Details of change?
 
 
 # Reason for the change?
 
 
-# Any known impact caused by the change?
+# Will there be an impact?
+if yes please anounce in [#known_issues](https://immersivelabs.slack.com/archives/CLS28F7RD) slack channel
 
 
-# Any related work (jira ticket for related work etc)?
+# Links to any associated documentation.
 
 
-# Is there any documentation?
-# If yes include link to nuclino, if no, would a nuclino page be helpful for the future?
-
-
-## Who requested the changes
-- [ ] Infra
-- [ ] External
-
-## Has this been tested? If other env where?
+# Has this been tested? If other env where?
 
 - [ ] Dev?
 - [ ] Staging?
-- [ ] Production?
 - [ ] other?
 
 
